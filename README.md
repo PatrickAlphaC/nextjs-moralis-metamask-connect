@@ -13,7 +13,7 @@ Video Coming soon...
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
     - [Important localhost note](#important-localhost-note)
-- [Resources](#resources)
+- [Examples](#examples)
 - [Thank you!](#thank-you)
 
 Video coming soon...
@@ -85,7 +85,7 @@ You'll be brought to the UI after running `yarn dev` which has exactly 2 buttons
 
 If you use metamask with a local network, everytime you shut down your node, you'll need to reset your account. Settings -> Advanced -> Reset account. Don't do this with a metamask you have real funds in.
 
-# Resources
+# Examples
 
 - [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 
